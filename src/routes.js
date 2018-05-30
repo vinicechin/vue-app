@@ -1,5 +1,5 @@
-import Hello from './components/HelloWorld.vue'; 
+import Login from './components/Login.vue'; 
  
 export const routes = [ 
-  { path: '', component: Hello }
+  { path: '', component: Login }
 ];
